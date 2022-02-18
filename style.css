@@ -1,0 +1,129 @@
+html, body{
+  width: 100%;
+  margin: 0;
+}
+.header{
+  width: 100%;
+}
+.background{
+  background-image: url(image/header-bg.png);
+  background-repeat:no-repeat;
+  height: 750px;
+  width: 100%;
+  background-size: 100%;
+}
+.box1{
+  width: 40%;
+  float:left;
+  margin-left:9%;
+  margin-top:160px;
+  font-size: 20px;
+  padding:15px
+}
+.boximg{
+  width: 40%;
+  float:left;
+  padding-top:70px;
+  padding-left:40px;
+}
+.boximg img{
+  width:100%
+}
+h1{
+  font-size: 50px;
+  font-weight: 500;
+}
+.hm{
+  font-size: 58px;
+  color: purple;
+  font-weight: 900;
+}
+a{
+  color:white;
+  background-image: linear-gradient(90deg, orange, rgb(172, 4, 144) );
+  padding: 10px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: 900;
+}
+.background1{
+  background-image: url(image/biography-bg.png);
+  background-repeat:no-repeat;
+  height: 600px;
+  width: 100%;
+  background-size: 100%;
+}
+.img2{
+  width: 30%;
+  padding-left: 120px; 
+  margin-top: -50px;
+}
+.hmm{
+  font-size: 50px;
+  font-weight: 900;
+  color:black;
+}
+.box2{
+  margin-top: 90px;
+}
+.work{
+  text-align: center;
+}
+.font{
+  font-weight: 800;  
+}
+.my .margin{
+  width: 90%;
+  height: 250px;
+  margin: 10px 100px;
+}
+.my{
+  width: 100%;
+  height: 500px;
+}
+.latest{
+  width: 25%;
+  padding-left: 5%;
+  float: left;
+}
+.imga1{
+  width:100%;
+}
+.background3{
+  background-image: url(image/latest-work-bg.png);
+  background-repeat:no-repeat;
+  height: 500px;
+  width: 100%;
+  background-size: 100%;
+}
+.client {
+  text-align: center;
+  width: 96%;
+  font-size: 115%;
+  padding: 20px;
+  position: absolute;
+
+}
+.what{
+  background-image: url(image/footer-bg.png);
+  
+}
+.hh6{
+  width: 500px;
+  height: 150px;
+  background-image: linear-gradient(90deg, orange, rgb(172, 4, 144));
+  border-radius: 12px;
+  margin:0 auto;
+  text-align: center;
+  color: white;
+  font-size: 130%;
+  box-shadow: 10px 10px 40px gray;
+}
+.footer{
+  background-color: gray;
+  font-size: larger;
+  color: white;
+  text-align: center;
+  height: 30px;
+  box-shadow: 10px 10px 40px gray;
+}
